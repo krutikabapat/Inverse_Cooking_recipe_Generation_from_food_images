@@ -34,3 +34,7 @@ An auto encoder based system to predict the recipe of food from its images.
  The Recipe1M dataset composed of 1 029 720 recipes scraped from cooking websites. The dataset contains 720 639 training,
 155 036 validation and 154 045 test recipes, containing a title, a list of ingredients, a list of cooking instructions and
 (optionally) an image.  
+
+## Optimisation
+
+In the first stage, we pre-train the image encoder and ingredients decoder. Then, in the second stage, we train the ingredient encoder and instruction decoder by minimizing the negative <b>log-likelihood</b> and adjusting θR and θE.
