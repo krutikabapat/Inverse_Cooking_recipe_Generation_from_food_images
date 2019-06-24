@@ -5,6 +5,9 @@ An auto encoder based system to predict the recipe of food from its images.
 
 1.https://arxiv.org/pdf/1812.06164.pdf  
 
+## Network
+![Screenshot](recipe.png)
+
 ## Requirements  
 
 1. numpy  
@@ -16,3 +19,4 @@ An auto encoder based system to predict the recipe of food from its images.
 7. lmdb  
 8. tensorflow  
 9. tensorboardX  
+
