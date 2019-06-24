@@ -29,3 +29,8 @@ An auto encoder based system to predict the recipe of food from its images.
 4. RNNs  
 5. LSTMs  
 
+## Dataset
+
+ The Recipe1M dataset composed of 1 029 720 recipes scraped from cooking websites. The dataset contains 720 639 training,
+155 036 validation and 154 045 test recipes, containing a title, a list of ingredients, a list of cooking instructions and
+(optionally) an image.  
