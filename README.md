@@ -44,3 +44,6 @@ In the first stage, we pre-train the image encoder and ingredients decoder. Then
 1. Find ingredient vocabulary https://dl.fbaipublicfiles.com/inversecooking/ingr_vocab.pkl  
 2. Find instruction vocabulary https://dl.fbaipublicfiles.com/inversecooking/instr_vocab.pkl  
 3. Find pre-trained model here https://dl.fbaipublicfiles.com/inversecooking/modelbest.ckpt  
+
+## Results
+![Screenshot](results.png)
