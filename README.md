@@ -19,7 +19,7 @@ An auto encoder based system to predict the recipe of food from its images.
 7. lmdb  
 8. tensorflow  
 9. tensorboardX  
-10 Pytorch 0.4.1  
+10. Pytorch 0.4.1  
 
 ## Pre-requisites  
 
