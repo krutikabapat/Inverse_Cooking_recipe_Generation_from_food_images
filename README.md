@@ -3,7 +3,8 @@ An auto encoder based system to predict the recipe of food from its images.
 
 ## Reference Paper  
 
-1.https://arxiv.org/pdf/1812.06164.pdf  
+1. https://arxiv.org/pdf/1812.06164.pdf  
+2. https://nlp.stanford.edu/pubs/emnlp15_attn.pdf  
 
 ## Network
 ![Screenshot](recipe.png)
