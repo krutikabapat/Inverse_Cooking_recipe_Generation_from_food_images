@@ -1,5 +1,5 @@
 # Inverse Cooking recipe Generation from food images
-An auto encoder based system to predict the recipe of food from its images.  
+An auto encoder-decoder with transformer based system to predict the recipe of food from its images.  
 
 ## Reference Paper  
 
