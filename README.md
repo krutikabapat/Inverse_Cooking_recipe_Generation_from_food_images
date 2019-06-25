@@ -24,7 +24,7 @@ An auto encoder-decoder with transformer based system to predict the recipe of f
 
 ## Pre-requisites  
 
-1. Transoformer  
+1. Transformer  
 2. Encoders and Decoders  
 3. Attention networks  
 4. RNNs  
