@@ -4,7 +4,8 @@ An auto encoder-decoder with transformer based system to predict the recipe of f
 ## Reference Paper  
 
 1. https://arxiv.org/pdf/1812.06164.pdf  
-2. https://nlp.stanford.edu/pubs/emnlp15_attn.pdf  
+2. https://nlp.stanford.edu/pubs/emnlp15_attn.pdf    
+3. https://medium.com/analytics-vidhya/machine-translation-encoder-decoder-model-7e4867377161    
 
 ## Network
 ![Screenshot](recipe.png)
